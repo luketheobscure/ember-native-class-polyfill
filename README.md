@@ -78,7 +78,7 @@ during construction. The subtleties of these methods can be confusing, and as
 such, it is recommended that you continue to use `init` instead of `constructor`
 for any initialization code in your classes.
 
-## Class Fileds and Decorators
+## Class Fields and Decorators
 
 Note that this polyfill does _not_ enable the usage of class field or
 decorators, and does _not_ include any decorators. Ember has not yet added first
